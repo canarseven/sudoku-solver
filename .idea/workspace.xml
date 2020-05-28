@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sudoku_solver" targetName="sudoku_solver" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61b341bf-73ff-4b83-8555-7a456129f56b" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/reader.c" beforeDir="false" afterPath="$PROJECT_DIR$/reader.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader.h" beforeDir="false" afterPath="$PROJECT_DIR$/reader.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cX21K09wKj5ToyrqOMf804sP04" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sudoku_solver" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/sudoku.txt" REDIRECT_INPUT="false" WORKING_DIR="file://$USER_HOME$/Desktop/sudoku-solver" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sudoku_solver" TARGET_NAME="sudoku_solver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sudoku_solver" RUN_TARGET_NAME="sudoku_solver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61b341bf-73ff-4b83-8555-7a456129f56b" name="Default Changelist" comment="" />
+      <created>1590660400568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590660400568</updated>
+      <workItem from="1590660401843" duration="8332000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1590668502130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590668502130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590667249143">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590667249143" />
+    <state x="603" y="247" key="#xdebugger.evaluate" timestamp="1590664918094">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="603" y="247" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1590664918094" />
+    <state width="1358" height="392" key="GridCell.Tab.0.bottom" timestamp="1590667796972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="392" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590667796972" />
+    <state width="1358" height="392" key="GridCell.Tab.0.center" timestamp="1590667796971">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="392" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590667796971" />
+    <state width="1358" height="392" key="GridCell.Tab.0.left" timestamp="1590667796971">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="392" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590667796971" />
+    <state width="1358" height="392" key="GridCell.Tab.0.right" timestamp="1590667796972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="392" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590667796972" />
+    <state width="1358" height="330" key="GridCell.Tab.1.bottom" timestamp="1590666962440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="330" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590666962440" />
+    <state width="1358" height="330" key="GridCell.Tab.1.center" timestamp="1590666962440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="330" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590666962440" />
+    <state width="1358" height="330" key="GridCell.Tab.1.left" timestamp="1590666962440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="330" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590666962440" />
+    <state width="1358" height="330" key="GridCell.Tab.1.right" timestamp="1590666962440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1358" height="330" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590666962440" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1590668746325">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590668746325" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1590668511633">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1590668511633" />
+    <state x="662" y="437" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590668651351">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="662" y="437" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590668651351" />
+  </component>
+</project>
